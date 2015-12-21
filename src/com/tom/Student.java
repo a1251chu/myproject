@@ -34,7 +34,7 @@ public class Student {
 		System.out.print(math + "\t" + chinese + "\t" + english + "\t" +getAverage());
 		if(getAverage()<pass)
 		{
-			System.out.println("*");
+			System.out.println("*"); 
 		}
 		else
 		{
